@@ -1,0 +1,6 @@
+{
+  "name": "مساعد الأسعار والبلاغات",
+  "description": "تطبيق ذكاء اصطناعي للتحقق من أسعار المنتجات وكشف التقليد وتقديم البلاغات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
